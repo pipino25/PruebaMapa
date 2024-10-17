@@ -4,13 +4,14 @@ solicitando acceso a la ubicación del dispositivo en caso de ser necesario, par
 
 Para lograr esto se debe:
 
--Abrir Android Studio
--Acceder a la pestaña "Git"
--Navegar a la sección "Clone"
--En pestaña "Repository URL" ingresar el link del repositorio
--Click en "Clone"
--Esperar a que carguen las dependencias
--Correr el Código, se desplegará una pantalla con un botón
--Click en el botón 
--Se desplegará el mapa con la ubicación que indique la emulación con un marcador
+-Abrir Android Studio.
+-Acceder a la pestaña "Git".
+-Navegar a la sección "Clone".
+-En pestaña "Repository URL" ingresar el link del repositorio.
+-Click en "Clone".
+-Esperar a que carguen las dependencias.
+-En "AndroidManifest" encontrado en las carpetas del proyecto, ingresar una API KEY propia en la sección meta data--> android:value""
+-Correr el Código, se desplegará una pantalla con un botón.
+-Click en el botón. 
+-Se desplegará el mapa con la ubicación que indique la emulación con un marcador.
 
